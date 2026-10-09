@@ -52,5 +52,9 @@ function reporteFlota(flota) {
   return reportes;
 }
 
+
+
+
+
 // No borres esta línea: es la puerta por donde el test usa tus funciones
 module.exports = { crearFlota, reporteFlota };
